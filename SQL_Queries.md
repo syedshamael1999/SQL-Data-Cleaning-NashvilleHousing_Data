@@ -1,4 +1,4 @@
-## Cleaning Nashville Housing Data with SQL  
+## 🧹Cleaning Nashville Housing Data with SQL  
 
 
 ### 1. Standardized Date Format
