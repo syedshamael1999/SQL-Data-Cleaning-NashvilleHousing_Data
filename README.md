@@ -1,7 +1,8 @@
 # 🧹 SQL Data Cleaning NashvilleHousing Data
 
 
-This project focuses on cleaning the Nashville Housing dataset using SQL. The dataset originally had 56,478 rows and 19 columns. The following cleaning steps were performed:
+This project focuses on cleaning the Nashville Housing dataset using SQL. The dataset originally had 56,478 rows and 19 columns.  
+The following cleaning steps were performed:
 
 
 1. 🗓️ Standardized Date Format 
