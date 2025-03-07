@@ -40,7 +40,7 @@ This cleaned dataset is now ready for further analysis and visualization.
 │── 📄 SQL_Notebook_Nashvill.ipynb  # SQL Notebook with executed queries
 │── 📄 SQL_Queries.md           # All SQL queries used in the project
 ```
-## 📌 If You Choose to Validate My Queries  
+## 📌 If You Want to Validate My Queries 
 1️⃣ **Download the dataset** [`Nashville Housing Data.xlsx`](Nashville%20Housing%20Data.xlsx) and import it into **MS SQL Server**.  
 2️⃣ **Run SQL queries** from **[`SQL_Queries.md`](SQL_Queries.md)** to clean and transform the data.  
 3️⃣ **Explore the notebook** in **[`SQL_Notebook_Nashvill.ipynb`](SQL_Notebook_Nashvill.ipynb)**.  
